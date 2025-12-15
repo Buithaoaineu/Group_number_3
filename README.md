@@ -65,18 +65,8 @@ pip install -r requirements.txt
 - Click the folder where you just cloned the repository -> select schema.sql  
 - Run the `schema.sql` file first to create the tables.  
 - Then repeat the same process with `seed.sql` to insert sample data.
-### **Step 4: Configure Environment Variables**
-Create .env file in root directory:
-```
-env
-DB_HOST=localhost
-DB_PORT=3306
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=employee_information_manager
-DEBUG=True
-```
-### **Step 5: Initialize Database**
+
+### **Step 4: Initialize Database**
 In VS Code terminal:
 ```
 bash
