@@ -1,4 +1,4 @@
--- INSERT DATABASE --
+-- INSERT DATABASE -- 
 
 USE Employee_Information_Manager;
 
