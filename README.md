@@ -150,7 +150,7 @@ seed.sql
 
 ## Contact & Support
 
-- 📧 Contact: oanhtran020906@gmail.com
+- 📧 Contact: nguyenhavy06032006@gmail.com
 - 🏫 Institution: National Economics University
 - 🎓 Course: Introduction to Databases
 - 👨‍🏫 Instructor: Dr. Hung Tran
