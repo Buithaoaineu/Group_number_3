@@ -60,11 +60,11 @@ In the VS Code terminal or Git Bash/PowerShell, type the command:
 pip install -r requirements.txt
 ```
 ### **Step 3: Configure MySQL Database**
-Open MySQL Workbench or VS Code MySQL extension
-1. Open MySQL Workbench or the VS Code MySQL extension.  
-2. Copy the content of both files: `schema.sql` and `seed.sql`.  
-3. Run the `schema.sql` file first to create the tables.  
-4. Then run the `seed.sql` file to insert sample data.
+- Open MySQL Workbench or the VS Code MySQL extension.
+- Go to File → Open SQL Script...
+- Click the folder where you just cloned the repository -> select schema.sql  
+- Run the `schema.sql` file first to create the tables.  
+- Then repeat the same process with `seed.sql` to insert sample data.
 ### **Step 4: Configure Environment Variables**
 Create .env file in root directory:
 ```
