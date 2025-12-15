@@ -1,4 +1,4 @@
 mysql-connector-python
 pandas
-matplotlib
+matplotlib==3.2.0
 numpy
