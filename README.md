@@ -81,8 +81,9 @@ def load_data(self):
 How to update the path:
 1. Locate the database.csv file in your project.
 2. Right-click the file → select Copy path.
-3. Paste the copied path into the code above, replacing 'C:\\\Users\\\YourPath\\\database.csv'.
-4. **Important**: In Python, file paths must use double backslashes \\\ (e.g., C:\\\Users\\\Laptop\\\Documents\\\...).
+3. Open **dashboard.py** → scroll to **def load_data(self):**.
+4. Paste the copied path into the code above, replacing 'C:\\\Users\\\YourPath\\\database.csv'.
+5. **Important**: In Python, file paths must use double backslashes \\\ (e.g., C:\\\Users\\\Laptop\\\Documents\\\...).
 
 ## Running the VS Code
 - Open employee_info_manager -> app -> main.py in VS Code
@@ -95,16 +96,12 @@ How to update the path:
 ##  Project Structure
 
 ```
-text
-employee-info-manager/
-├── .vscode/               
-│   ├── launch.json
-│   └── settings.json
+.vscode/               
+├── launch.json 
+employee-info-manager/ 
 ├── app/
 │   ├── db/           
-│   │   ├── connection.py
-│   │   ├── schema.sql
-│   │   └── seed.sql              
+│   │   ├── connection.py             
 │   ├── services/          
 │   │   ├── crud_employees_service.py
 │   │   ├── crud_departments_service.py
@@ -124,15 +121,10 @@ employee-info-manager/
 │   │   ├── queries_inner.py
 │   │   └── search_and_filter.py
 │   │   └── export.py
+|   ├── main.py
 ├── documentary/                    
 │   ├── report.pdf/            
-│   ├── slides.pdf/           
-├── screenshot
-│   ├── db1.png
-│   ├── db2.png
-│   ├── db3.png
-│   ├── db4.png
-│   ├── erd.png
+│   ├── slides.pdf/              
 ├── utils
 │   ├── create_user.py
 ├── tests/
@@ -141,9 +133,11 @@ employee-info-manager/
 │   ├── test_services.py          
 ├── .env.example
 ├── .gitignore
-├── requirements.txt        
-├── README.md               # This file
-└── .gitattributes          
+.gitattributes
+README.md            # This file
+requirements.txt        
+schema.sql               
+seed.sql         
 ```
 
 ## 🔗 Quick Links
