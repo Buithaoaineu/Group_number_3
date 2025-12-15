@@ -95,11 +95,11 @@ How to update the path:
 4. **Important**: In Python, file paths must use double backslashes \\\ (e.g., C:\\\Users\\\Laptop\\\Documents\\\...).
 
 ## Running the Application
-- Open src/main.py in VS Code
+- Open employee_info_manager -> app -> main.py in VS Code
 - Press F5 or click Run → Start Debugging
 - Or run in terminal:
 ```
-python src/main.py
+ python .\employee_info_manager\app\main.py
 ```
 ## VS Code Extensions Recommended
 - Python: Microsoft Python extension
