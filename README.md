@@ -54,8 +54,9 @@ or C:\Users\Laptop\Downloads\Group_number_3).
 - Click Select folder
 
 ### **Step 2: Install Dependencies**
+After opening the project folder in VS Code, install the required dependencies:
+In the VS Code terminal or Git Bash/PowerShell, type the command:
 ```
-bash
 pip install -r requirements.txt
 ```
 ### **Step 3: Configure MySQL Database**
