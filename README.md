@@ -66,16 +66,6 @@ pip install -r requirements.txt
 - Run the `schema.sql` file first to create the tables.  
 - Then repeat the same process with `seed.sql` to insert sample data.
 
-### **Step 4: Initialize Database**
-In VS Code terminal:
-```
-bash
-# Import schema
-mysql -u root -p employee_manager < database/schema.sql
-
-# Load sample data
-mysql -u root -p employee_manager < database/seed.sql
-```
 ### ⚠️ Important Note Before Running
 
 Before running the program, you need to update the file path for `database.csv` in the `load_data` function:
