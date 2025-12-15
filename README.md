@@ -30,8 +30,8 @@ You can find instructions for [cloning or downloading this repository here](http
 
 If you have Git installed, follow these steps:
 
-1. **Open Git Bash or PowerShell** on your computer.
-2. **Navigate to the folder** where you want to save the project (for example Desktop or Downloads):
+1. Open Git Bash or PowerShell on your computer.
+2. Navigate to the folder where you want to save the project (for example Desktop or Downloads):
 ```
 bash
 cd ~/Desktop
@@ -40,11 +40,11 @@ cd ~/Desktop
 powershell
 cd "C:\Users\Laptop\Downloads"
 ```
-3. **Run the clone command**:
+3. Run the clone command:
 ``` 
 git clone https://github.com/Buithaoaineu/Group_number_3.git
 ```
-4. **Open the project in VS Code**:
+4. Open the project in VS Code:
 - Start Visual Studio Code.
 - Go to File → Open Folder....
 - Select the folder where you just cloned the repository
@@ -101,7 +101,7 @@ How to update the path:
 1. Locate the database.csv file in your project.
 2. Right-click the file → select Copy path.
 3. Paste the copied path into the code above, replacing 'C:\\\Users\\\YourPath\\\database.csv'.
-4. Important: In Python, file paths must use double backslashes \\\ (e.g., C:\\\Users\\\Laptop\\\Documents\\\...).
+4. **Important**: In Python, file paths must use double backslashes \\\ (e.g., C:\\\Users\\\Laptop\\\Documents\\\...).
 
 ## Running the Application
 - Open src/main.py in VS Code
