@@ -1,4 +1,4 @@
-# ============ LINE ENDINGS ============
+# ============ LINE ENDINGS ============ 
 # Normalize line endings for text files
 *.py text eol=lf
 *.sql text eol=lf
