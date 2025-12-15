@@ -144,8 +144,8 @@ seed.sql
 
 - 📂 GitHub Repository: [GitHub Repository](https://github.com/Buithaoaineu/Group_number_3)
 - 🎥 Demo Video: [YouTube Demo](https://youtu.be/MmStJCzWH4w?si=LT9qPqY3Dzx7Qs9x)
-- 📄 Full Report: [Download PDF Report](employee_info_manager/documentary/report.pdf) 
-- 🎓 Presentation Slides: [Download PDF Slides](employee_info_manager/documentary/slides.pdf)
+- 📄 Full Report: [Download PDF Report](employee_info_manager/document/report.pdf) 
+- 🎓 Presentation Slides: [Download PDF Slides](employee_info_manager/document/slides.pdf)
 - 🐛 Issue Tracker: GitHub Issues
 
 ## Contact & Support
