@@ -8,8 +8,6 @@ markdown
 
 ##  Table of Contents
 - [Project Overview](#project-overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
 - [Installation & Setup](#installation--setup)
 - [Running in VS Code](#running-in-vs-code)
 - [Database Schema](#database-schema)
@@ -21,69 +19,6 @@ markdown
 ##  Project Overview
 
 **Employee Information Manager** is a comprehensive database application developed as part of the **Introduction to Databases** course at **National Economics University**. The project addresses real-world HR data management problems by transforming unnormalized employee data into a robust **3NF database schema** with an intuitive **Python GUI application**.
-
-###  **Learning Objectives Demonstrated**
-- ✅ **Data Modeling**: Normalized UNF table to 1NF → 2NF → 3NF
-- ✅ **Database Implementation**: MySQL schema with PK/FK constraints
-- ✅ **Application Development**: Python GUI with CRUD operations
-- ✅ **Collaboration**: GitHub workflow with issues/PRs
-- ✅ **Communication**: LaTeX report, presentation slides, demo video
-
-###  **Project Requirements Met**
-- **3NF Normalized Schema** with proper PK/FK relationships
-- **Python GUI Application** with Tkinter interface
-- **Four Required Queries** with CSV export functionality
-- **Interactive Dashboard** with visualizations
-- **Comprehensive Documentation** including LaTeX report
-
-##  Features
-
-###  **Core CRUD Operations**
-- **Employees**: Create, Read, Update, Delete employee records
-- **Departments**: Manage organizational departments
-- **Projects**: Track projects and assign managers
-- **Assignments**: Link employees to projects with roles and salaries
-
-###  **Analytical Queries**
-1. **INNER JOIN**: Employee roles and salaries per project
-2. **LEFT JOIN**: All employees including those without projects
-3. **Multi-table JOIN**: Employee-Project-Role-Salary-Manager relationships
-4. **Above Global Average**: Employees with above-average salaries
-
-###  **Dashboard & Visualizations**
-- **KPI Metrics**: Total employees, departments, projects, assignments
-- **Salary Analysis**: Average salary, distribution histogram
-- **Top Performers**: Top-N employees by average salary
-- **Role Distribution**: Pie chart of organizational roles
-
-###  **Search & Filter System**
-- Global search by employee name
-- Filter by department, project, role, salary range, manager
-- Real-time results updating
-
-###  **Data Validation**
-- Required field validation
-- Date format validation
-- Salary range validation (≥ 0)
-- Unique constraint enforcement
-
-##  Tech Stack
-
-### **Backend**
-- **Python 3.8+**: Core application logic
-- **MySQL 8.0+**: Relational database
-- **mysql-connector-python**: Database connectivity
-
-### **GUI Framework**
-- **Tkinter**: Desktop GUI application
-- **ttkthemes**: Enhanced UI styling
-- **Matplotlib**: Data visualization
-
-### **Development Tools**
-- **VS Code**: Primary IDE
-- **Git & GitHub**: Version control
-- **MySQL Workbench**: Database management
-- **LaTeX**: Report generation
 
 ##  Installation & Setup
 
