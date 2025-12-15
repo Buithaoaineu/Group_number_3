@@ -9,7 +9,7 @@ markdown
 ##  Table of Contents
 - [Project Overview](#project-overview)
 - [Installation & Setup](#installation--setup)
-- [Running in VS Code](#running-in-vs-code)
+- [Running in VS Code](#running-the-vs-code)
 - [Project Structure](#project-structure)
 - [🔗 Quick Links](#-quick-links)
 
@@ -84,18 +84,13 @@ How to update the path:
 3. Paste the copied path into the code above, replacing 'C:\\\Users\\\YourPath\\\database.csv'.
 4. **Important**: In Python, file paths must use double backslashes \\\ (e.g., C:\\\Users\\\Laptop\\\Documents\\\...).
 
-## Running the Application
+## Running the VS Code
 - Open employee_info_manager -> app -> main.py in VS Code
 - Press F5 or click Run → Start Debugging
 - Or run in terminal:
 ```
  python .\employee_info_manager\app\main.py
 ```
-## VS Code Extensions Recommended
-- Python: Microsoft Python extension
-- MySQL: MySQL management tools
-- GitLens: Git integration
-- LaTeX Workshop: For report editing
 
 ##  Project Structure
 
