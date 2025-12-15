@@ -112,6 +112,11 @@ cd "C:\Users\Laptop\Downloads"
 ``` 
 git clone https://github.com/Buithaoaineu/Group_number_3.git
 ```
+4. Open the project in VS Code:
+- Start Visual Studio Code.
+- Go to File → Open Folder....
+- Select the folder where you just cloned the repository (ví dụ C:\Users\Laptop\Desktop\Group_number_3 hoặc C:\Users\Laptop\Downloads\Group_number_3).
+- Click Open
 
 ### **Step 2: Set Up Virtual Environment**
 In VS Code terminal:
