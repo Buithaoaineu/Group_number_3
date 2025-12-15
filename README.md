@@ -54,6 +54,7 @@ or C:\Users\Laptop\Downloads\Group_number_3).
 
 ### **Step 2: Install Dependencies**
 After opening the project folder in VS Code, install the required dependencies:
+
 In the VS Code terminal or Git Bash/PowerShell, type the command:
 ```
 pip install -r requirements.txt
