@@ -94,6 +94,9 @@ markdown
 - Git
 
 ### **Step 1: Clone Repository**
+You can [find instructions for cloning or downloading this repository here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), then unzip the repository.
+
+Or, if you have Git command line installed, clone using this command:
 ```
 bash
 git clone https://github.com/your-team/employee-info-manager.git
