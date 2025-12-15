@@ -1,0 +1,321 @@
+EmployeeID,EmployeeName,DateOfBirth,DepartmentName,ProjectName,EmployeeRole,Salary
+1,"Vũ Thị Nhung",1990-04-23,Sales,"Urban Development Research",Coordinator,12500000.00
+1,"Vũ Thị Nhung",1990-04-23,Sales,"Academic Administration Management",Developer,12500000.00
+2,"Bùi Minh Quân",1982-08-19,Finance,"Economic Policy Research 2024",Manager,18000000.00
+2,"Bùi Minh Quân",1982-08-19,Finance,"MBA Program Improvement","Team Lead",18000000.00
+3,"Ngô Thị Lan",1985-12-02,"Human Resources","Employee Engagement Program","HR Specialist",14200000.00
+3,"Ngô Thị Lan",1985-12-02,"Human Resources","Talent Development Plan",Recruiter,14200000.00
+4,"Hoàng Văn Nam",1981-01-14,"Data Science","Data Analytics Platform","Data Scientist",21500000.00
+4,"Hoàng Văn Nam",1981-01-14,"Data Science","AI Research Initiative","ML Engineer",21500000.00
+5,"Trần Thị Thanh",1983-05-27,Engineering,"Predictive Maintenance System","QA Engineer",16500000.00
+5,"Trần Thị Thanh",1983-05-27,Engineering,"Product Design Revamp",Designer,16500000.00
+6,"Lê Văn Hùng",1979-09-09,"Data Science","Data Analytics Platform","Senior Data Scientist",24500000.00
+6,"Lê Văn Hùng",1979-09-09,"Data Science","AI Research Initiative","Research Lead",24500000.00
+7,"Phạm Thị Ngọc",1986-03-05,Finance,"Economic Policy Research 2024","Financial Analyst",15800000.00
+7,"Phạm Thị Ngọc",1986-03-05,Finance,"Financial Market Analysis",Accountant,15800000.00
+8,"Trương Minh Hải",1984-07-16,"Human Resources","Employee Engagement Program","HR Manager",15200000.00
+8,"Trương Minh Hải",1984-07-16,"Human Resources","Talent Development Plan","Training Coordinator",15200000.00
+9,"Đinh Thị Lan",1987-12-29,"Legal Affairs","Legal Compliance Audit","Legal Advisor",16800000.00
+9,"Đinh Thị Lan",1987-12-29,"Legal Affairs","Contract Management System","Compliance Officer",16800000.00
+10,"Nguyễn Văn Sơn",1979-10-11,Marketing,"Market Expansion Strategy","Marketing Specialist",14800000.00
+10,"Nguyễn Văn Sơn",1979-10-11,Marketing,"Brand Awareness Campaign","Brand Manager",14800000.00
+11,"Vũ Thị Hương",1990-02-08,Sales,"Sales Optimization Program","Sales Executive",13500000.00
+11,"Vũ Thị Hương",1990-02-08,Sales,"Customer Relationship Management","Account Manager",13500000.00
+12,"Bùi Văn Tiến",1985-06-23,Finance,"Financial Reporting System","Financial Controller",17200000.00
+12,"Bùi Văn Tiến",1985-06-23,Finance,"Risk Management Framework",Auditor,17200000.00
+13,"Ngô Thị Bích",1989-09-30,"Human Resources","HR Digital Transformation","HR Business Partner",14600000.00
+13,"Ngô Thị Bích",1989-09-30,"Human Resources","Performance Management System","Recruitment Specialist",14600000.00
+14,"Hoàng Quang Huy",1982-03-12,"Data Science","Legal Tech Implementation","Data Analyst",20500000.00
+14,"Hoàng Quang Huy",1982-03-12,"Data Science","Corporate Governance Project","BI Developer",20500000.00
+15,"Nguyễn Thị Lan",1984-11-05,Engineering,"Digital Marketing Campaign","Software Engineer",17500000.00
+15,"Nguyễn Thị Lan",1984-11-05,Engineering,"E-commerce Platform","Test Engineer",17500000.00
+16,"Trần Văn Kiên",1978-04-28,"Data Science","Supply Chain Optimization","Data Engineer",22500000.00
+16,"Trần Văn Kiên",1978-04-28,"Data Science","Logistics Management","Analytics Manager",22500000.00
+17,"Lê Thị Hồng",1986-08-14,Finance,"Cloud Migration Project","Budget Analyst",16200000.00
+17,"Lê Thị Hồng",1986-08-14,Finance,"Cybersecurity Initiative","Investment Analyst",16200000.00
+18,"Phạm Văn Cường",1981-12-07,"Human Resources","Mobile App Development","Compensation Specialist",15400000.00
+18,"Phạm Văn Cường",1981-12-07,"Human Resources","Web Platform Redesign","Benefits Administrator",15400000.00
+19,"Đặng Thị Thanh",1987-05-21,"Legal Affairs","Big Data Infrastructure","Corporate Lawyer",17200000.00
+19,"Đặng Thị Thanh",1987-05-21,"Legal Affairs","Machine Learning Models","Legal Counsel",17200000.00
+20,"Nguyễn Văn Hòa",1980-01-19,Marketing,"IoT Implementation","Digital Marketer",15200000.00
+20,"Nguyễn Văn Hòa",1980-01-19,Marketing,"Smart Factory Project","Content Strategist",15200000.00
+21,"Vũ Thị Thanh",1990-07-03,Sales,"Urban Development Research","Sales Manager",13800000.00
+21,"Vũ Thị Thanh",1990-07-03,Sales,"Academic Administration Management","Business Developer",13800000.00
+22,"Bùi Minh Hùng",1982-09-22,Finance,"Economic Policy Research 2024","Treasury Analyst",17800000.00
+22,"Bùi Minh Hùng",1982-09-22,Finance,"Audit Process Optimization","Internal Auditor",17800000.00
+23,"Ngô Thị Mai",1985-02-17,"Human Resources","Employee Engagement Program","Talent Acquisition",14200000.00
+23,"Ngô Thị Mai",1985-02-17,"Human Resources","Talent Development Plan","HR Coordinator",14200000.00
+24,"Hoàng Văn Quang",1981-06-29,"Data Science","Data Analytics Platform","Machine Learning Engineer",21000000.00
+24,"Hoàng Văn Quang",1981-06-29,"Data Science","AI Research Initiative","AI Specialist",21000000.00
+25,"Trần Thị Phương",1983-03-11,Engineering,"Predictive Maintenance System","DevOps Engineer",18000000.00
+25,"Trần Thị Phương",1983-03-11,Engineering,"Product Design Revamp","UX Designer",18000000.00
+26,"Lê Văn Tài",1979-08-05,"Data Science","AI Research Initiative","Big Data Engineer",23500000.00
+26,"Lê Văn Tài",1979-08-05,"Data Science","Customer Segmentation Model","Data Architect",23500000.00
+27,"Phạm Thị Hạnh",1986-12-19,Finance,"MBA Program Improvement","Financial Planner",16800000.00
+27,"Phạm Thị Hạnh",1986-12-19,Finance,"Financial Market Analysis","Risk Analyst",16800000.00
+28,"Trương Minh Tuấn",1984-05-01,"Human Resources","Employee Engagement Program","Organizational Development",15600000.00
+28,"Trương Minh Tuấn",1984-05-01,"Human Resources","Talent Development Plan","HR Consultant",15600000.00
+29,"Đinh Thị Nhung",1987-09-26,"Legal Affairs","Legal Compliance Audit","Contract Specialist",17600000.00
+29,"Đinh Thị Nhung",1987-09-26,"Legal Affairs","Contract Management System","Legal Assistant",17600000.00
+30,"Nguyễn Văn Phát",1979-11-17,Marketing,"Market Expansion Strategy","Marketing Analyst",15600000.00
+30,"Nguyễn Văn Phát",1979-11-17,Marketing,"Brand Awareness Campaign","SEO Specialist",15600000.00
+31,"Vũ Thị Hồng",1990-01-30,Sales,"Sales Optimization Program","Sales Representative",13200000.00
+31,"Vũ Thị Hồng",1990-01-30,Sales,"Customer Relationship Management","Client Relations",13200000.00
+32,"Bùi Văn Sơn",1985-04-14,Finance,"Economic Policy Research 2024","Cost Accountant",17400000.00
+32,"Bùi Văn Sơn",1985-04-14,Finance,"Audit Process Optimization","Compliance Auditor",17400000.00
+33,"Ngô Thị Thanh",1989-07-21,"Human Resources","Employee Engagement Program","HR Generalist",14400000.00
+33,"Ngô Thị Thanh",1989-07-21,"Human Resources","Talent Development Plan","Training Specialist",14400000.00
+34,"Hoàng Quang Vinh",1982-10-08,"Data Science","Data Analytics Platform","Data Visualization Expert",20800000.00
+34,"Hoàng Quang Vinh",1982-10-08,"Data Science","Customer Segmentation Model","Reporting Analyst",20800000.00
+35,"Nguyễn Thị Hương",1984-02-25,Engineering,"Predictive Maintenance System","Backend Developer",18200000.00
+35,"Nguyễn Thị Hương",1984-02-25,Engineering,"Quality Assurance Framework","Automation Engineer",18200000.00
+36,"Trần Văn Nam",1978-06-12,"Data Science","AI Research Initiative","NLP Engineer",22800000.00
+36,"Trần Văn Nam",1978-06-12,"Data Science","Customer Segmentation Model","Predictive Modeler",22800000.00
+37,"Lê Thị Ngọc",1986-09-03,Finance,"MBA Program Improvement","Management Accountant",16400000.00
+37,"Lê Thị Ngọc",1986-09-03,Finance,"Financial Market Analysis","Portfolio Manager",16400000.00
+38,"Phạm Văn Minh",1981-11-18,"Human Resources","Employee Engagement Program","Employee Relations",15800000.00
+38,"Phạm Văn Minh",1981-11-18,"Human Resources","Talent Development Plan","HRIS Analyst",15800000.00
+39,"Đặng Thị Lan",1987-04-27,"Legal Affairs","Legal Compliance Audit","Intellectual Property Lawyer",17400000.00
+39,"Đặng Thị Lan",1987-04-27,"Legal Affairs","Contract Management System","Regulatory Affairs",17400000.00
+40,"Nguyễn Văn Tùng",1980-07-08,Marketing,"Market Expansion Strategy","Social Media Manager",15400000.00
+40,"Nguyễn Văn Tùng",1980-07-08,Marketing,"Brand Awareness Campaign","Marketing Coordinator",15400000.00
+41,"Vũ Thị Phương",1990-12-15,Sales,"Sales Optimization Program","Sales Analyst",13600000.00
+41,"Vũ Thị Phương",1990-12-15,Sales,"Customer Relationship Management","Key Account Manager",13600000.00
+42,"Bùi Minh Quân",1982-05-19,Finance,"Economic Policy Research 2024","Financial Reporting",17600000.00
+42,"Bùi Minh Quân",1982-05-19,Finance,"Audit Process Optimization","Operational Auditor",17600000.00
+43,"Ngô Thị Hạnh",1985-08-11,"Human Resources","Employee Engagement Program","Recruitment Manager",14800000.00
+43,"Ngô Thị Hạnh",1985-08-11,"Human Resources","Talent Development Plan","HR Director",14800000.00
+44,"Hoàng Văn Long",1981-03-03,"Data Science","Data Analytics Platform","Data Quality Manager",21200000.00
+44,"Hoàng Văn Long",1981-03-03,"Data Science","AI Research Initiative","AI Researcher",21200000.00
+45,"Trần Thị Lan",1983-06-27,Engineering,"Predictive Maintenance System","Frontend Developer",18400000.00
+45,"Trần Thị Lan",1983-06-27,Engineering,"Product Design Revamp","Product Manager",18400000.00
+46,"Lê Văn Quang",1979-10-05,"Data Science","AI Research Initiative","Computer Vision Engineer",23200000.00
+46,"Lê Văn Quang",1979-10-05,"Data Science","Customer Segmentation Model","Statistical Analyst",23200000.00
+47,"Phạm Thị Thanh",1986-01-21,Finance,"MBA Program Improvement","Tax Specialist",16600000.00
+47,"Phạm Thị Thanh",1986-01-21,Finance,"Financial Market Analysis","Credit Analyst",16600000.00
+48,"Trương Minh Hùng",1984-09-14,"Human Resources","Employee Engagement Program","Performance Management",16200000.00
+48,"Trương Minh Hùng",1984-09-14,"Human Resources","Talent Development Plan","HR Analytics",16200000.00
+49,"Đinh Thị Mai",1987-11-30,"Legal Affairs","Legal Compliance Audit","Labor Lawyer",17800000.00
+49,"Đinh Thị Mai",1987-11-30,"Legal Affairs","Contract Management System","Legal Operations",17800000.00
+50,"Nguyễn Văn Cường",1979-05-17,Marketing,"Market Expansion Strategy","Marketing Manager",15800000.00
+50,"Nguyễn Văn Cường",1979-05-17,Marketing,"Brand Awareness Campaign","Campaign Manager",15800000.00
+51,"Vũ Thị Lan",1990-08-02,Sales,"Sales Optimization Program","Sales Operations",13400000.00
+51,"Vũ Thị Lan",1990-08-02,Sales,"Customer Relationship Management","Customer Success",13400000.00
+52,"Bùi Văn Hòa",1985-12-23,Finance,"Economic Policy Research 2024","Business Analyst",17800000.00
+52,"Bùi Văn Hòa",1985-12-23,Finance,"Audit Process Optimization","Forensic Auditor",17800000.00
+53,"Ngô Thị Hồng",1989-02-06,"Human Resources","Employee Engagement Program","Compensation Analyst",15000000.00
+53,"Ngô Thị Hồng",1989-02-06,"Human Resources","Talent Development Plan","HR Project Manager",15000000.00
+54,"Hoàng Quang Nam",1982-04-28,"Data Science","Data Analytics Platform","Database Administrator",21800000.00
+54,"Hoàng Quang Nam",1982-04-28,"Data Science","Customer Segmentation Model","ETL Developer",21800000.00
+55,"Nguyễn Thị Thanh",1984-07-19,Engineering,"Predictive Maintenance System","Full Stack Developer",18800000.00
+55,"Nguyễn Thị Thanh",1984-07-19,Engineering,"Quality Assurance Framework","Security Engineer",18800000.00
+56,"Trần Văn Hùng",1978-11-12,"Data Science","AI Research Initiative","Deep Learning Engineer",23800000.00
+56,"Trần Văn Hùng",1978-11-12,"Data Science","Customer Segmentation Model","Quantitative Analyst",23800000.00
+57,"Lê Thị Phương",1986-03-30,Finance,"MBA Program Improvement","Mergers & Acquisitions",17000000.00
+57,"Lê Thị Phương",1986-03-30,Finance,"Financial Market Analysis","Financial Modeling",17000000.00
+58,"Phạm Văn Quý",1981-06-15,"Human Resources","Employee Engagement Program","Succession Planning",16400000.00
+58,"Phạm Văn Quý",1981-06-15,"Human Resources","Talent Development Plan","Diversity & Inclusion",16400000.00
+59,"Đặng Thị Hồng",1987-09-09,"Legal Affairs","Legal Compliance Audit","Corporate Governance",18000000.00
+59,"Đặng Thị Hồng",1987-09-09,"Legal Affairs","Contract Management System","Legal Risk Management",18000000.00
+60,"Nguyễn Văn Minh",1980-01-27,Marketing,"Market Expansion Strategy","Product Marketing",16200000.00
+60,"Nguyễn Văn Minh",1980-01-27,Marketing,"Brand Awareness Campaign","Market Research",16200000.00
+61,"Vũ Thị Thanh",1990-05-16,Sales,"Sales Optimization Program","Channel Sales",14000000.00
+61,"Vũ Thị Thanh",1990-05-16,Sales,"Customer Relationship Management","Partnership Manager",14000000.00
+62,"Bùi Minh Tú",1982-08-04,Finance,"Economic Policy Research 2024","Strategic Finance",18200000.00
+62,"Bùi Minh Tú",1982-08-04,Finance,"Audit Process Optimization","IT Auditor",18200000.00
+63,"Ngô Thị Mai",1985-12-10,"Human Resources","Employee Engagement Program","HR Technology",15200000.00
+63,"Ngô Thị Mai",1985-12-10,"Human Resources","Talent Development Plan","Change Management",15200000.00
+64,"Hoàng Văn Tài",1981-03-21,"Data Science","Data Analytics Platform","Cloud Data Engineer",22200000.00
+64,"Hoàng Văn Tài",1981-03-21,"Data Science","AI Research Initiative","Robotics Engineer",22200000.00
+65,"Trần Thị Ngọc",1983-09-09,Engineering,"Predictive Maintenance System","Mobile Developer",19200000.00
+65,"Trần Thị Ngọc",1983-09-09,Engineering,"Product Design Revamp","Technical Lead",19200000.00
+66,"Lê Văn Hòa",1979-06-03,"Data Science","AI Research Initiative","Algorithm Developer",24200000.00
+66,"Lê Văn Hòa",1979-06-03,"Data Science","Customer Segmentation Model","Business Intelligence",24200000.00
+67,"Phạm Thị Nhung",1986-11-26,Finance,"MBA Program Improvement","Corporate Finance",17400000.00
+67,"Phạm Thị Nhung",1986-11-26,Finance,"Financial Market Analysis","Valuation Analyst",17400000.00
+68,"Trương Minh Sơn",1984-02-14,"Human Resources","Employee Engagement Program","Talent Management",16600000.00
+68,"Trương Minh Sơn",1984-02-14,"Human Resources","Talent Development Plan","Leadership Development",16600000.00
+69,"Đinh Thị Lan",1987-05-30,"Legal Affairs","Legal Compliance Audit","Contract Negotiation",18200000.00
+69,"Đinh Thị Lan",1987-05-30,"Legal Affairs","Contract Management System","Legal Documentation",18200000.00
+70,"Nguyễn Văn Quý",1979-08-21,Marketing,"Market Expansion Strategy","Brand Strategy",16400000.00
+70,"Nguyễn Văn Quý",1979-08-21,Marketing,"Brand Awareness Campaign","Advertising Manager",16400000.00
+71,"Vũ Thị Hồng",1990-12-08,Sales,"Sales Optimization Program","Retail Sales",14200000.00
+71,"Vũ Thị Hồng",1990-12-08,Sales,"Customer Relationship Management","Sales Trainer",14200000.00
+72,"Bùi Văn Dũng",1985-04-19,Finance,"Economic Policy Research 2024","FP&A Analyst",18400000.00
+72,"Bùi Văn Dũng",1985-04-19,Finance,"Audit Process Optimization","Quality Auditor",18400000.00
+73,"Ngô Thị Thanh",1989-07-25,"Human Resources","Employee Engagement Program","HR Compliance",15400000.00
+73,"Ngô Thị Thanh",1989-07-25,"Human Resources","Talent Development Plan","Policy Development",15400000.00
+74,"Hoàng Quang Long",1982-10-02,"Data Science","Data Analytics Platform","Data Governance",22400000.00
+74,"Hoàng Quang Long",1982-10-02,"Data Science","Customer Segmentation Model","Master Data Management",22400000.00
+75,"Nguyễn Thị Lan",1984-01-15,Engineering,"Predictive Maintenance System","Embedded Systems",19400000.00
+75,"Nguyễn Thị Lan",1984-01-15,Engineering,"Product Design Revamp","Systems Architect",19400000.00
+76,"Trần Văn Phát",1978-03-28,"Data Science","AI Research Initiative","Reinforcement Learning",24400000.00
+76,"Trần Văn Phát",1978-03-28,"Data Science","Customer Segmentation Model","Optimization Specialist",24400000.00
+77,"Lê Thị Thanh",1986-06-13,Finance,"MBA Program Improvement","Investor Relations",17600000.00
+77,"Lê Thị Thanh",1986-06-13,Finance,"Financial Market Analysis","Capital Markets",17600000.00
+78,"Phạm Văn Hòa",1981-09-29,"Human Resources","Employee Engagement Program","Workforce Planning",16800000.00
+78,"Phạm Văn Hòa",1981-09-29,"Human Resources","Talent Development Plan","HR Metrics & Analytics",16800000.00
+79,"Đặng Thị Ngọc",1987-12-05,"Legal Affairs","Legal Compliance Audit","Dispute Resolution",18400000.00
+79,"Đặng Thị Ngọc",1987-12-05,"Legal Affairs","Contract Management System","Legal Research",18400000.00
+80,"Nguyễn Văn Hùng",1980-05-17,Marketing,"Market Expansion Strategy","Public Relations",16600000.00
+80,"Nguyễn Văn Hùng",1980-05-17,Marketing,"Brand Awareness Campaign","Communications Manager",16600000.00
+81,"Vũ Thị Mai",1990-08-30,Sales,"Sales Optimization Program","Inside Sales",14400000.00
+81,"Vũ Thị Mai",1990-08-30,Sales,"Customer Relationship Management","Sales Support",14400000.00
+82,"Bùi Minh Hòa",1982-02-09,Finance,"Economic Policy Research 2024","Financial Systems",18600000.00
+82,"Bùi Minh Hòa",1982-02-09,Finance,"Audit Process Optimization","Process Auditor",18600000.00
+83,"Ngô Thị Hạnh",1985-11-20,"Human Resources","Employee Engagement Program","HR Business Analyst",15600000.00
+83,"Ngô Thị Hạnh",1985-11-20,"Human Resources","Talent Development Plan","HR Process Improvement",15600000.00
+84,"Hoàng Văn Quý",1981-07-07,"Data Science","Data Analytics Platform","Data Mining Specialist",22600000.00
+84,"Hoàng Văn Quý",1981-07-07,"Data Science","Customer Segmentation Model","Data Warehouse Architect",22600000.00
+85,"Trần Thị Phương",1983-10-11,Engineering,"Predictive Maintenance System","Game Developer",19600000.00
+85,"Trần Thị Phương",1983-10-11,Engineering,"Product Design Revamp","Creative Director",19600000.00
+86,"Lê Văn Nam",1979-01-25,"Data Science","AI Research Initiative","Cognitive Computing",24600000.00
+86,"Lê Văn Nam",1979-01-25,"Data Science","Customer Segmentation Model","Decision Science",24600000.00
+87,"Phạm Thị Lan",1986-04-15,Finance,"MBA Program Improvement","Project Finance",17800000.00
+87,"Phạm Thị Lan",1986-04-15,Finance,"Financial Market Analysis","Structured Finance",17800000.00
+88,"Trương Minh Quang",1984-08-21,"Human Resources","Employee Engagement Program","Compensation Strategy",17000000.00
+88,"Trương Minh Quang",1984-08-21,"Human Resources","Talent Development Plan","Executive Compensation",17000000.00
+89,"Đinh Thị Thanh",1987-02-10,"Legal Affairs","Legal Compliance Audit","Environmental Law",18600000.00
+89,"Đinh Thị Thanh",1987-02-10,"Legal Affairs","Contract Management System","Health & Safety Compliance",18600000.00
+90,"Nguyễn Văn Hòa",1979-12-18,Marketing,"Market Expansion Strategy","Event Marketing",16800000.00
+90,"Nguyễn Văn Hòa",1979-12-18,Marketing,"Brand Awareness Campaign","Trade Show Manager",16800000.00
+91,"Vũ Thị Hồng",1990-06-04,Sales,"Sales Optimization Program","Sales Administrator",14600000.00
+91,"Vũ Thị Hồng",1990-06-04,Sales,"Customer Relationship Management","Order Processing",14600000.00
+92,"Bùi Văn Minh",1985-03-28,Finance,"Economic Policy Research 2024","Treasury Management",18800000.00
+92,"Bùi Văn Minh",1985-03-28,Finance,"Audit Process Optimization","Environmental Auditor",18800000.00
+93,"Ngô Thị Mai",1989-09-12,"Human Resources","Employee Engagement Program","HR Service Delivery",15800000.00
+93,"Ngô Thị Mai",1989-09-12,"Human Resources","Talent Development Plan","HR Shared Services",15800000.00
+94,"Hoàng Quang Tài",1982-05-05,"Data Science","Data Analytics Platform","Real-time Analytics",22800000.00
+94,"Hoàng Quang Tài",1982-05-05,"Data Science","Customer Segmentation Model","Stream Processing",22800000.00
+95,"Trần Văn An",1983-08-15,Engineering,"Predictive Maintenance System","IoT Developer",19800000.00
+95,"Trần Văn An",1983-08-15,Engineering,"Product Design Revamp","Hardware Engineer",19800000.00
+96,"Lê Thị Bình",1986-11-22,Finance,"MBA Program Improvement","Cost Management",17200000.00
+96,"Lê Thị Bình",1986-11-22,Finance,"Financial Market Analysis","Pricing Analyst",17200000.00
+97,"Phạm Văn Chiến",1981-04-18,"Human Resources","Employee Engagement Program","HR Strategy",16000000.00
+97,"Phạm Văn Chiến",1981-04-18,"Human Resources","Talent Development Plan","Organizational Design",16000000.00
+98,"Nguyễn Thị Dung",1984-07-30,"Legal Affairs","Legal Compliance Audit","Privacy Law Specialist",18800000.00
+98,"Nguyễn Thị Dung",1984-07-30,"Legal Affairs","Contract Management System","Data Privacy Officer",18800000.00
+99,"Vũ Văn Đạt",1979-02-14,Marketing,"Market Expansion Strategy","Digital Strategy",17000000.00
+99,"Vũ Văn Đạt",1979-02-14,Marketing,"Brand Awareness Campaign","E-commerce Manager",17000000.00
+100,"Bùi Thị Én",1990-09-25,Sales,"Sales Optimization Program","Field Sales",14800000.00
+100,"Bùi Thị Én",1990-09-25,Sales,"Customer Relationship Management","Regional Manager",14800000.00
+101,"Ngô Văn Phúc",1982-12-03,"Data Science","Data Analytics Platform","Data Architect",23000000.00
+101,"Ngô Văn Phúc",1982-12-03,"Data Science","AI Research Initiative","Solution Architect",23000000.00
+102,"Hoàng Thị Giang",1985-05-19,Engineering,"Predictive Maintenance System","QA Lead",20000000.00
+102,"Hoàng Thị Giang",1985-05-19,Engineering,"Product Design Revamp","Test Manager",20000000.00
+103,"Trần Văn Hiếu",1978-10-08,Finance,"Economic Policy Research 2024","Financial Planning",19000000.00
+103,"Trần Văn Hiếu",1978-10-08,Finance,"Financial Market Analysis","Investment Manager",19000000.00
+104,"Lê Thị Kim",1986-01-12,"Human Resources","Employee Engagement Program","Learning & Development",16200000.00
+104,"Lê Thị Kim",1986-01-12,"Human Resources","Talent Development Plan","Training Manager",16200000.00
+105,"Phạm Văn Lâm",1983-03-27,"Legal Affairs","Legal Compliance Audit","Commercial Law",19000000.00
+105,"Phạm Văn Lâm",1983-03-27,"Legal Affairs","Contract Management System","Contract Manager",19000000.00
+106,"Nguyễn Thị Mỹ",1984-06-09,Marketing,"Market Expansion Strategy","Marketing Operations",17200000.00
+106,"Nguyễn Thị Mỹ",1984-06-09,Marketing,"Brand Awareness Campaign","Marketing Director",17200000.00
+107,"Vũ Văn Nghĩa",1979-08-23,Sales,"Sales Optimization Program","National Sales",15000000.00
+107,"Vũ Văn Nghĩa",1979-08-23,Sales,"Customer Relationship Management","Sales Director",15000000.00
+108,"Bùi Thị Oanh",1990-11-17,"Data Science","Data Analytics Platform","Research Scientist",23400000.00
+108,"Bùi Thị Oanh",1990-11-17,"Data Science","AI Research Initiative","AI Ethicist",23400000.00
+109,"Ngô Văn Phong",1982-07-04,Engineering,"Predictive Maintenance System","Embedded Engineer",20200000.00
+109,"Ngô Văn Phong",1982-07-04,Engineering,"Product Design Revamp","Firmware Developer",20200000.00
+110,"Hoàng Thị Quỳnh",1985-02-28,Finance,"Economic Policy Research 2024","Treasury Manager",19200000.00
+110,"Hoàng Thị Quỳnh",1985-02-28,Finance,"Audit Process Optimization","Internal Control",19200000.00
+111,"Trần Văn Sỹ",1978-12-15,"Human Resources","Employee Engagement Program","HR Operations",16400000.00
+111,"Trần Văn Sỹ",1978-12-15,"Human Resources","Talent Development Plan","HR Service Manager",16400000.00
+112,"Lê Thị Thu",1986-04-21,"Legal Affairs","Legal Compliance Audit","Tax Law Specialist",19200000.00
+112,"Lê Thị Thu",1986-04-21,"Legal Affairs","Contract Management System","Tax Compliance",19200000.00
+113,"Phạm Văn Uy",1983-09-06,Marketing,"Market Expansion Strategy","Channel Marketing",17400000.00
+113,"Phạm Văn Uy",1983-09-06,Marketing,"Brand Awareness Campaign","Partner Marketing",17400000.00
+114,"Nguyễn Thị Vân",1984-01-29,Sales,"Sales Optimization Program","Strategic Accounts",15200000.00
+114,"Nguyễn Thị Vân",1984-01-29,Sales,"Customer Relationship Management","Enterprise Sales",15200000.00
+115,"Vũ Văn Xuân",1979-05-13,"Data Science","Data Analytics Platform","MLOps Engineer",23600000.00
+115,"Vũ Văn Xuân",1979-05-13,"Data Science","AI Research Initiative","Platform Engineer",23600000.00
+116,"Bùi Thị Yến",1990-08-07,Engineering,"Predictive Maintenance System","Automation Specialist",20400000.00
+116,"Bùi Thị Yến",1990-08-07,Engineering,"Product Design Revamp","Robotics Engineer",20400000.00
+117,"Ngô Văn Anh",1982-03-24,Finance,"Economic Policy Research 2024","Financial Controller",19400000.00
+117,"Ngô Văn Anh",1982-03-24,Finance,"Financial Market Analysis","Risk Manager",19400000.00
+118,"Hoàng Thị Bích",1985-10-11,"Human Resources","Employee Engagement Program","Talent Acquisition Lead",16600000.00
+118,"Hoàng Thị Bích",1985-10-11,"Human Resources","Talent Development Plan","Recruitment Director",16600000.00
+119,"Trần Văn Cảnh",1978-07-19,"Legal Affairs","Legal Compliance Audit","Employment Law",19400000.00
+119,"Trần Văn Cảnh",1978-07-19,"Legal Affairs","Contract Management System","Labor Relations",19400000.00
+120,"Lê Thị Diệu",1986-12-02,Marketing,"Market Expansion Strategy","Product Launch",17600000.00
+120,"Lê Thị Diệu",1986-12-02,Marketing,"Brand Awareness Campaign",Go-to-Market,17600000.00
+121,"Phạm Văn Đức",1983-02-16,Sales,"Sales Optimization Program","Business Development",15400000.00
+121,"Phạm Văn Đức",1983-02-16,Sales,"Customer Relationship Management","Strategic Partnerships",15400000.00
+122,"Nguyễn Thị Hà",1984-05-08,"Data Science","Data Analytics Platform","Data Science Lead",23800000.00
+122,"Nguyễn Thị Hà",1984-05-08,"Data Science","AI Research Initiative","Chief Data Scientist",23800000.00
+123,"Vũ Văn Khánh",1979-09-30,Engineering,"Predictive Maintenance System","Technical Architect",20600000.00
+123,"Vũ Văn Khánh",1979-09-30,Engineering,"Product Design Revamp","Enterprise Architect",20600000.00
+124,"Bùi Thị Linh",1990-04-14,Finance,"Economic Policy Research 2024","Chief Financial Officer",19600000.00
+124,"Bùi Thị Linh",1990-04-14,Finance,"Financial Market Analysis","Finance Director",19600000.00
+125,"Ngô Văn Mạnh",1982-01-27,"Human Resources","Employee Engagement Program","Chief HR Officer",16800000.00
+125,"Ngô Văn Mạnh",1982-01-27,"Human Resources","Talent Development Plan","HR Director",16800000.00
+126,"Hoàng Thị Ngà",1985-08-03,"Legal Affairs","Legal Compliance Audit","General Counsel",19600000.00
+126,"Hoàng Thị Ngà",1985-08-03,"Legal Affairs","Contract Management System","Legal Director",19600000.00
+127,"Trần Văn Phú",1978-11-20,Marketing,"Market Expansion Strategy","Chief Marketing Officer",17800000.00
+127,"Trần Văn Phú",1978-11-20,Marketing,"Brand Awareness Campaign","Marketing VP",17800000.00
+128,"Lê Thị Quế",1986-06-25,Sales,"Sales Optimization Program","Chief Sales Officer",15600000.00
+128,"Lê Thị Quế",1986-06-25,Sales,"Customer Relationship Management","Sales VP",15600000.00
+129,"Phạm Văn Sang",1983-03-09,"Data Science","Data Analytics Platform","VP of Data Science",24000000.00
+129,"Phạm Văn Sang",1983-03-09,"Data Science","AI Research Initiative","Head of AI",24000000.00
+130,"Nguyễn Thị Trang",1984-10-22,Engineering,"Predictive Maintenance System","VP of Engineering",20800000.00
+130,"Nguyễn Thị Trang",1984-10-22,Engineering,"Product Design Revamp",CTO,20800000.00
+131,"Vũ Văn Thắng",1979-07-17,Finance,"Economic Policy Research 2024","VP of Finance",19800000.00
+131,"Vũ Văn Thắng",1979-07-17,Finance,"Audit Process Optimization","Head of Audit",19800000.00
+132,"Bùi Thị Uyên",1990-02-05,"Human Resources","Employee Engagement Program","VP of HR",17000000.00
+132,"Bùi Thị Uyên",1990-02-05,"Human Resources","Talent Development Plan","Head of Talent",17000000.00
+133,"Ngô Văn Việt",1982-12-28,"Legal Affairs","Legal Compliance Audit","VP of Legal",19800000.00
+133,"Ngô Văn Việt",1982-12-28,"Legal Affairs","Contract Management System","Head of Compliance",19800000.00
+134,"Hoàng Thị Xuân",1985-05-16,Marketing,"Market Expansion Strategy","VP of Marketing",18000000.00
+134,"Hoàng Thị Xuân",1985-05-16,Marketing,"Brand Awareness Campaign","Head of Brand",18000000.00
+135,"Trần Văn Yên",1978-09-11,Sales,"Sales Optimization Program","VP of Sales",15800000.00
+135,"Trần Văn Yên",1978-09-11,Sales,"Customer Relationship Management","Head of Sales Ops",15800000.00
+136,"Lê Thị Ánh",1986-01-24,"Data Science","Data Analytics Platform","Head of Analytics",24200000.00
+136,"Lê Thị Ánh",1986-01-24,"Data Science","AI Research Initiative","AI Director",24200000.00
+137,"Phạm Văn Bằng",1983-08-07,Engineering,"Predictive Maintenance System","Engineering Director",21000000.00
+137,"Phạm Văn Bằng",1983-08-07,Engineering,"Product Design Revamp","Head of Product",21000000.00
+138,"Nguyễn Thị Châu",1984-03-19,Finance,"Economic Policy Research 2024","Finance Manager",20000000.00
+138,"Nguyễn Thị Châu",1984-03-19,Finance,"Financial Market Analysis","Head of Treasury",20000000.00
+139,"Vũ Văn Dương",1979-06-02,"Human Resources","Employee Engagement Program","HR Director",17200000.00
+139,"Vũ Văn Dương",1979-06-02,"Human Resources","Talent Development Plan","Head of HRBP",17200000.00
+140,"Bùi Thị Hạnh",1990-11-15,"Legal Affairs","Legal Compliance Audit","Legal Manager",20000000.00
+140,"Bùi Thị Hạnh",1990-11-15,"Legal Affairs","Contract Management System","Head of Legal Ops",20000000.00
+141,"Ngô Văn Khoa",1982-04-26,Marketing,"Market Expansion Strategy","Marketing Manager",18200000.00
+141,"Ngô Văn Khoa",1982-04-26,Marketing,"Brand Awareness Campaign","Head of Digital",18200000.00
+142,"Hoàng Thị Loan",1985-09-08,Sales,"Sales Optimization Program","Sales Manager",16000000.00
+142,"Hoàng Thị Loan",1985-09-08,Sales,"Customer Relationship Management","Head of Channel",16000000.00
+143,"Trần Văn Minh",1978-02-13,"Data Science","Data Analytics Platform","Analytics Manager",24400000.00
+143,"Trần Văn Minh",1978-02-13,"Data Science","AI Research Initiative","Head of Research",24400000.00
+144,"Lê Thị Nga",1986-07-31,Engineering,"Predictive Maintenance System","Development Manager",21200000.00
+144,"Lê Thị Nga",1986-07-31,Engineering,"Product Design Revamp","Head of Dev",21200000.00
+145,"Phạm Văn Phước",1983-12-14,Finance,"Economic Policy Research 2024","Accounting Manager",20200000.00
+145,"Phạm Văn Phước",1983-12-14,Finance,"Audit Process Optimization","Head of Reporting",20200000.00
+146,"Nguyễn Thị Quyên",1984-05-27,"Human Resources","Employee Engagement Program","Talent Manager",17400000.00
+146,"Nguyễn Thị Quyên",1984-05-27,"Human Resources","Talent Development Plan","Head of L&D",17400000.00
+147,"Vũ Văn Sáng",1979-10-10,"Legal Affairs","Legal Compliance Audit","Compliance Manager",20200000.00
+147,"Vũ Văn Sáng",1979-10-10,"Legal Affairs","Contract Management System","Head of Risk",20200000.00
+148,"Bùi Thị Thảo",1990-03-23,Marketing,"Market Expansion Strategy","Campaign Manager",18400000.00
+148,"Bùi Thị Thảo",1990-03-23,Marketing,"Brand Awareness Campaign","Head of Media",18400000.00
+149,"Ngô Văn Trung",1982-08-06,Sales,"Sales Optimization Program","Account Director",16200000.00
+149,"Ngô Văn Trung",1982-08-06,Sales,"Customer Relationship Management","Head of Accounts",16200000.00
+150,"Hoàng Thị Vui",1985-01-18,"Data Science","Data Analytics Platform","Data Manager",24600000.00
+150,"Hoàng Thị Vui",1985-01-18,"Data Science","AI Research Initiative","Head of ML",24600000.00
+151,"Trần Văn Hưng",1978-04-01,Engineering,"Predictive Maintenance System","Project Manager",21400000.00
+151,"Trần Văn Hưng",1978-04-01,Engineering,"Product Design Revamp","Head of Projects",21400000.00
+152,"Lê Thị Kiều",1986-09-14,Finance,"Economic Policy Research 2024","Budget Manager",20400000.00
+152,"Lê Thị Kiều",1986-09-14,Finance,"Financial Market Analysis","Head of Budgeting",20400000.00
+153,"Phạm Văn Lộc",1983-06-29,"Human Resources","Employee Engagement Program","HR Manager",17600000.00
+153,"Phạm Văn Lộc",1983-06-29,"Human Resources","Talent Development Plan","Head of HR",17600000.00
+154,"Nguyễn Thị My",1984-11-12,"Legal Affairs","Legal Compliance Audit","Legal Manager",20400000.00
+154,"Nguyễn Thị My",1984-11-12,"Legal Affairs","Contract Management System","Head of Contracts",20400000.00
+155,"Vũ Văn Nhân",1979-02-25,Marketing,"Market Expansion Strategy","Product Manager",18600000.00
+155,"Vũ Văn Nhân",1979-02-25,Marketing,"Brand Awareness Campaign","Head of Products",18600000.00
+156,"Bùi Thị Phúc",1990-07-08,Sales,"Sales Optimization Program","Sales Team Lead",16400000.00
+156,"Bùi Thị Phúc",1990-07-08,Sales,"Customer Relationship Management","Head of Sales",16400000.00
+157,"Ngô Văn Quyết",1982-10-21,"Data Science","Data Analytics Platform","Tech Lead",24800000.00
+157,"Ngô Văn Quyết",1982-10-21,"Data Science","AI Research Initiative","Head of Tech",24800000.00
+158,"Hoàng Thị Sen",1985-03-04,Engineering,"Predictive Maintenance System","Lead Engineer",21600000.00
+158,"Hoàng Thị Sen",1985-03-04,Engineering,"Product Design Revamp","Head of Engineering",21600000.00
+159,"Trần Văn Thành",1978-12-17,Finance,"Economic Policy Research 2024","Lead Analyst",20600000.00
+159,"Trần Văn Thành",1978-12-17,Finance,"Audit Process Optimization","Head of Analysis",20600000.00
+160,"Lê Thị Vinh",1986-05-20,"Human Resources","Employee Engagement Program","Lead HRBP",17800000.00
+160,"Lê Thị Vinh",1986-05-20,"Human Resources","Talent Development Plan","Head of People",17800000.00
