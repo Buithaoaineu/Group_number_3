@@ -97,7 +97,7 @@ markdown
 You can find instructions for [cloning or downloading this repository here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), then unzip the repository.
 
 Or, if you have Git command line installed, clone using this command:
-```bash
+``` bash
 git clone https://github.com/Buithaoaineu/Group_number_3.git
 ```
 ### **Step 2: Set Up Virtual Environment**
