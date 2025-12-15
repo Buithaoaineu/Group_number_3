@@ -51,7 +51,7 @@ git clone https://github.com/Buithaoaineu/Group_number_3.git
 - Select the folder where you just cloned the repository
  (For example,  C:\Users\Laptop\Desktop\Group_number_3
 or C:\Users\Laptop\Downloads\Group_number_3).
-- Click Open
+- Click Select folder
 
 ### **Step 2: Set Up Virtual Environment**
 In VS Code terminal:
