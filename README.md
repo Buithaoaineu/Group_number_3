@@ -12,7 +12,7 @@ markdown
 - [Running in VS Code](#running-in-vs-code)
 - [Project Structure](#project-structure)
 - [Team & Contributions](#team--contributions)
-- [Documentation](#documentation)
+- [🔗 Quick Links](#Quick-Links)
 
 ##  Project Overview
 
@@ -234,12 +234,6 @@ employee-info-manager/
 - Error handling
 - Documentation and README
 - Responsive design
-
-## Acknowledgements
-
-- Dr. Hung Tran: Course instructor and project advisor
-- National Economics University: Academic institution
-- Open Source Community: Tools and libraries used
 
 ## 🔗 Quick Links
 
