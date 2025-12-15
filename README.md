@@ -93,13 +93,25 @@ markdown
 - VS Code with Python extension
 - Git
 
-### **Step 1: Clone Repository**
+### **Step 1: Cd to the folder and Clone Repository**
 You can find instructions for [cloning or downloading this repository here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), then unzip the repository.
 
-Or, if you have Git command line installed, clone using this command:
+If you have Git installed, follow these steps:
+
+1. **Open Git Bash or PowerShell** on your computer.
+2. **Navigate to the folder** where you want to save the project (for example Desktop or Downloads):
+```
+bash
+cd ~/Desktop
+```
+```
+powershell
+cd "C:\Users\Laptop\Downloads"
+```
 ``` bash
 git clone https://github.com/Buithaoaineu/Group_number_3.git
 ```
+
 ### **Step 2: Set Up Virtual Environment**
 In VS Code terminal:
 ```
