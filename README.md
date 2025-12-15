@@ -11,7 +11,6 @@ markdown
 - [Installation & Setup](#installation--setup)
 - [Running in VS Code](#running-in-vs-code)
 - [Project Structure](#project-structure)
-- [Usage Guide](#usage-guide)
 - [Team & Contributions](#team--contributions)
 - [Documentation](#documentation)
 
@@ -206,45 +205,6 @@ employee-info-manager/
 ├── README.md               # This file
 └── .gitattributes          
 ```
-##  Usage Guide
-
-### Starting the Application
-- Ensure MySQL is running
-- Activate virtual environment
-- Run python src/main.py
-- Or use VS Code debugger (F5)
-
-### Main Features
-
-1. Dashboard
-
-- View organizational KPIs
-  ![Employee Management Overview](employee_info_manager/screenshot/db1.png)
-- Analyze salary distribution
-  ![Salary Distribution Analysis](employee_info_manager/screenshot/db2.png)
-- Identify top performers
-  ![Top Employees by Average Salary](employee_info_manager/screenshot/db3.png)
-- Monitor role distribution
-  ![Employee Role Distribution Analysis](employee_info_manager/screenshot/db4.png)
-
-2. CRUD Operations
-
-- Employees: Add/edit/delete employee records
-- Departments: Manage organizational units
-- Projects: Create and assign projects
-- Assignments: Link employees to projects
-
-3. Analytical Queries
-
-- Run four required queries
-- Sort and filter results
-- Export to CSV format
-
-4. Search & Filter
-
-- Search by employee name
-- Filter by multiple criteria
-- Real-time results
 
 ##  Team & Contributions
 ### Team members
