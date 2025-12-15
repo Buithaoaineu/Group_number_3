@@ -108,7 +108,8 @@ cd ~/Desktop
 powershell
 cd "C:\Users\Laptop\Downloads"
 ```
-``` bash
+3. **Run the clone command**:
+``` 
 git clone https://github.com/Buithaoaineu/Group_number_3.git
 ```
 
