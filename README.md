@@ -122,7 +122,7 @@ employee-info-manager/
 │   │   └── search_and_filter.py
 │   │   └── export.py
 |   ├── main.py
-├── documentary/                    
+├── document/                    
 │   ├── report.pdf/            
 │   ├── slides.pdf/              
 ├── utils
