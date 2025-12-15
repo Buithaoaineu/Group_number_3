@@ -53,31 +53,18 @@ git clone https://github.com/Buithaoaineu/Group_number_3.git
 or C:\Users\Laptop\Downloads\Group_number_3).
 - Click Select folder
 
-### **Step 2: Set Up Virtual Environment**
-In VS Code terminal:
-```
-bash
-# Create virtual environment
-python -m venv venv
-
-# Activate (Windows)
-venv\Scripts\activate
-
-# Activate (macOS/Linux)
-source venv/bin/activate
-```
-### **Step 3: Install Dependencies**
+### **Step 2: Install Dependencies**
 ```
 bash
 pip install -r requirements.txt
 ```
-### **Step 4: Configure MySQL Database**
+### **Step 3: Configure MySQL Database**
 Open MySQL Workbench or VS Code MySQL extension
 1. Open MySQL Workbench or the VS Code MySQL extension.  
 2. Copy the content of both files: `schema.sql` and `seed.sql`.  
 3. Run the `schema.sql` file first to create the tables.  
 4. Then run the `seed.sql` file to insert sample data.
-### **Step 5: Configure Environment Variables**
+### **Step 4: Configure Environment Variables**
 Create .env file in root directory:
 ```
 env
@@ -88,7 +75,7 @@ DB_PASSWORD=your_password
 DB_NAME=employee_information_manager
 DEBUG=True
 ```
-### **Step 6: Initialize Database**
+### **Step 5: Initialize Database**
 In VS Code terminal:
 ```
 bash
@@ -143,7 +130,6 @@ json
 - Press F5 or click Run → Start Debugging
 - Or run in terminal:
 ```
-bash
 python src/main.py
 ```
 ## VS Code Extensions Recommended
