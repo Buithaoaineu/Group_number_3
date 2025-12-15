@@ -103,28 +103,6 @@ How to update the path:
 3. Paste the copied path into the code above, replacing 'C:\\\Users\\\YourPath\\\database.csv'.
 4. Important: In Python, file paths must use double backslashes \\\ (e.g., C:\\\Users\\\Laptop\\\Documents\\\...).
 
-## Running in VS Code
-- VS Code Launch Configuration
-Create .vscode/launch.json:
-```
-json
-{
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-
-        {
-            "name": "Run employee-info-manager",
-            "type": "debugpy",
-            "request": "launch",
-            "program": "${file}",
-            "console": "integratedTerminal"
-        }
-    ]
-}
-```
 ## Running the Application
 - Open src/main.py in VS Code
 - Press F5 or click Run → Start Debugging
