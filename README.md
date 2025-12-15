@@ -11,7 +11,6 @@ markdown
 - [Installation & Setup](#installation--setup)
 - [Running in VS Code](#running-in-vs-code)
 - [Project Structure](#project-structure)
-- [Team & Contributions](#team--contributions)
 - [🔗 Quick Links](#-quick-links)
 
 ##  Project Overview
@@ -45,7 +44,7 @@ cd "C:\Users\Laptop\Downloads"
 ``` 
 git clone https://github.com/Buithaoaineu/Group_number_3.git
 ```
-4. Open the project in VS Code:
+4. **Open the project in VS Code**:
 - Start Visual Studio Code.
 - Go to File → Open Folder....
 - Select the folder where you just cloned the repository
@@ -192,35 +191,6 @@ employee-info-manager/
 ├── README.md               # This file
 └── .gitattributes          
 ```
-
-##  Team & Contributions
-### Team members
-1. Tran Phuong Oanh (11247338)
-
-- Database normalization (UNF → 3NF)
-- MySQL schema design
-- Sample data generation
-- ERD creation
-- Dashboard visualizations
-- Documentation and README
-  
-2. Bui Phuong Thao (11247353)
-
-- Tkinter GUI design
-- CRUD forms implementation
-- Search and filter system
-- UI/UX testing
-- Responsive design
-- Error handling
-  
-3. Nguyen Ha Vy (11247374)
-
-- Database connection layer
-- Business logic services
-- Input validation
-- Error handling
-- Documentation and README
-- Responsive design
 
 ## 🔗 Quick Links
 
