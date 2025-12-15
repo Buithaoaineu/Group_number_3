@@ -12,7 +12,7 @@ markdown
 - [Running in VS Code](#running-in-vs-code)
 - [Project Structure](#project-structure)
 - [Team & Contributions](#team--contributions)
-- [🔗 Quick Links](#Quick-Links)
+- [🔗 Quick Links](#-quick-links)
 
 ##  Project Overview
 
