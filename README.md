@@ -18,6 +18,8 @@ markdown
 **Employee Information Manager** is a comprehensive database application developed as part of the **Introduction to Databases** course at **National Economics University**. The project addresses real-world HR data management problems by transforming unnormalized employee data into a robust **3NF database schema** with an intuitive **Python GUI application**.
 
 ### Some Application Screenshots
+![](image/image1.png)  ![](image/image2.png)
+![](image/image3.png)  ![](image/image4.png)  ![](image/image5.png)
 
 ##  Installation & Setup
 
